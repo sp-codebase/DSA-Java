@@ -28,6 +28,9 @@ public class HashSetBasics {
          set.add(s2);
          set.add(s3);
 
-         System.out.println(set);
+
+
+
+        System.out.println(set);
     }
 }

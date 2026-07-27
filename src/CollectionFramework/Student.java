@@ -31,4 +31,8 @@ public class Student {
                 ", name='" + name + '\'' +
                 '}';
     }
+
+    public boolean containsAll(Student s2) {
+        return false;
+    }
 }
